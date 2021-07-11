@@ -1,4 +1,4 @@
-[Email](mailto:yasaman.a.adli@gmail.com/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) / 
+[Email](mailto:yasaman.a.adli@gmail.com/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) 
 
 ## About Me
 I received my master's degree in CompEng from the University of Tabriz. With the main focus on AI, including ML, cognitive science, and image processing concepts, I researched path planning for autonomous vehicles using evolutionary algorithms in my master thesis. <br>
