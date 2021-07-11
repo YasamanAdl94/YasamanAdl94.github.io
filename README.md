@@ -1,4 +1,3 @@
-# Yasaman Ahmadiadli
 [Email](mailto:yasaman.a.adli@gmail.com/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) / 
 
 ## About Me
