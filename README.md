@@ -1,11 +1,15 @@
 [Email](mailto:yasaman.a.adli@gmail.com/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) 
 
 ## About Me
-I received my master's degree in CompEng from the University of Tabriz. With the main focus on AI, including ML, cognitive science, and image processing concepts, I researched path planning for autonomous vehicles using evolutionary algorithms in my master thesis. <br>
+I am a Ph.D. student at Ryerson University. My main focus is ML in Signal Processing and Multimedia Analysis concepts. I received my master's degree in Computer Engineering from the University of Tabriz. I specialized in advanced AI and ML, cognitive science, and image processing concepts. I researched path planning for autonomous vehicles using evolutionary algorithms in my master thesis. <br>
 I have worked on the perception and decision-making modules of autonomous robots after graduation. I gained skills in embedded systems and server configurations. I am skilled in Matlab and Python programming. Industrial revolutions and IoT devices are my recent interests, and I am curious about how smart devices shape and affect society and human emotions. <br>
 Perseverance is my strength in life. I can describe myself as a passionate human being with a problem-solving mindset. I seek knowledge about nature, the universe, and every scientific subject. I love to read, and I am incredibly obsessed with the unknown. I pay extra attention to cognitive science to understand the most ambiguous concept in humans: consciousness. <br>
 
 ## Education
+Ryerson University, Toronto, Canada <br>
+Ph.D. Student in Electrical Engineering <br>
+**2021-2026** <br>
+
 University of Tabriz, Iran <br>
 M.Sc. in Computer Engineering – Artificial Intelligence and Robotics <br>
 Thesis: <br>
