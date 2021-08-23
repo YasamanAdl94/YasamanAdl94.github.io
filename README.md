@@ -2,8 +2,8 @@
 
 ## About Me
 I am a Ph.D. student at Ryerson University. My main focus is ML in Signal Processing and Multimedia Analysis concepts. I received my master's degree in Computer Engineering from the University of Tabriz. I specialized in advanced AI and ML, cognitive science, and image processing concepts. I researched path planning for autonomous vehicles using evolutionary algorithms in my master thesis. <br>
-I have worked on the perception and decision-making modules of autonomous robots after graduation. I gained skills in embedded systems and server configurations. I am skilled in Matlab and Python programming. Industrial revolutions and IoT devices are my recent interests, and I am curious about how smart devices shape and affect society and human emotions. <br>
-Perseverance is my strength in life. I can describe myself as a passionate human being with a problem-solving mindset. I seek knowledge about nature, the universe, and every scientific subject. I love to read, and I am incredibly obsessed with the unknown. I pay extra attention to cognitive science to understand the most ambiguous concept in humans: consciousness. <br>
+I have worked on the perception and decision-making modules of autonomous robots. I gained skills in embedded systems and server configurations. I am skilled in Matlab and Python programming. <br>
+Perseverance is my strength in life. I describe myself as a passionate human being with a problem-solving mindset. I seek knowledge about nature, the universe, and every scientific subject. I love to read, and I am incredibly obsessed with the unknown. I pay extra attention to cognitive science to understand the most ambiguous concept in humans: consciousness. <br>
 
 ## Education
 Ryerson University, Toronto, Canada <br>
