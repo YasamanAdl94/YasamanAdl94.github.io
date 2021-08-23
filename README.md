@@ -1,4 +1,4 @@
-[Email](mailto:yasaman.a.adli@gmail.com/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) 
+[Email](mailto:yahmadiadli@ryerson.ca/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) 
 
 ## About Me
 I am a Ph.D. student at Ryerson University. My main focus is ML in Signal Processing and Multimedia Analysis concepts. I received my master's degree in Computer Engineering from the University of Tabriz. I specialized in advanced AI and ML, cognitive science, and image processing concepts. I researched path planning for autonomous vehicles using evolutionary algorithms in my master thesis. <br>
