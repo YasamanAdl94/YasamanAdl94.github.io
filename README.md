@@ -31,6 +31,10 @@ Cognitive Science  <br>
 Bioinformatics  <br>
 
 ## Teaching Experience
+Ryerson University <br>
+Teaching Assistant - Digital Systems(COE328) <br>
+**Fall 2021** <br>
+
 University of Tabriz <br>
 Teaching Assistant – Fundamentals of Computational Intelligence	<br>
 **Spring 2018** <br>
@@ -46,7 +50,7 @@ Teaching Assistant – Computer Networks Lab <br>
 
 ## Technical Skills
 Programming Languages: C, Java, Matlab, Python <br>
-•	 Python Libraries and Frameworks: Tensorflow, OpenCV, Numpy, Keras, Pandas, Scikit-learn, Matplotlib <br>
+•	 Python Libraries and Frameworks: Tensorflow, PyTorch, OpenCV, Numpy, Keras, Pandas, Scikit-learn, Matplotlib <br>
 Robotics: Robotics Operating System (ROS) <br>
 Operating Systems: Windows, Linux (Debian, including Ubuntu and Mint) <br>
 Database Systems: MySQL, SQL Server <br>
