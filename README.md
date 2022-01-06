@@ -1,14 +1,12 @@
 [Email](mailto:yahmadiadli@ryerson.ca/) / [Researchgate](https://www.researchgate.net/profile/Yasaman_Ahmadi_Adli/) / [LinkedIn](https://www.linkedin.com/in/yasamanadl/) / [GitHub](https://github.com/YasamanAdl94/) 
 
 ## About Me
-I am a Ph.D. student at Ryerson University. My main focus is ML in Signal Processing and Multimedia Analysis concepts. I received my master's degree in Computer Engineering from the University of Tabriz. I specialized in advanced AI and ML, cognitive science, and image processing concepts. I researched path planning for autonomous vehicles using evolutionary algorithms in my master thesis. <br>
-I have worked on the perception and decision-making modules of autonomous robots. I gained skills in embedded systems and server configurations. I am skilled in Matlab and Python programming. <br>
-Perseverance is my strength in life. I describe myself as a passionate human being with a problem-solving mindset. I seek knowledge about nature, the universe, and every scientific subject. I love to read, and I am incredibly obsessed with the unknown. I pay extra attention to cognitive science to understand the most ambiguous concept in humans: consciousness. <br>
-
+Ph.D. student at Ryerson University  <br>
+Focusing on Signal Processing, audio processing and deepfakes  <br>
 ## Education
 Ryerson University, Toronto, Canada <br>
 Ph.D. Student in Electrical Engineering <br>
-**2021-2026** <br>
+**2021-2025** <br>
 
 University of Tabriz, Iran <br>
 M.Sc. in Computer Engineering – Artificial Intelligence and Robotics <br>
@@ -23,12 +21,10 @@ Pedestrian Detection using Thermal Cameras for Driving in Dangerous Roads <br>
 **2012-2017** <br>
 
 ## Research Interests
-Machine Learning  <br>
+Deep Learning  <br>
 Evolutionary Computing  <br>
-Image Processing  <br>
-Signal Processing and Communications  <br>
-Cognitive Science  <br>
-Bioinformatics  <br>
+Multimedia Processing  <br>
+Digital Signal Processing  <br>
 
 ## Teaching Experience
 Ryerson University <br>
