@@ -3,11 +3,8 @@ As a highly motivated Ph.D. candidate dedicated to career  growth, I seek to app
 [Email](mailto:yahmadiadli@torontomu.ca/) / [Researchgate](https://www.researchgate.net/profile/Yasaman-Ahmadiadli) / [LinkedIn](https://www.linkedin.com/in/yasamanahmadiadli/) / [GitHub](https://github.com/YasamanAdl94/) 
 
 ## Education
-Ph.D. Candidate at Toronto Metropolitan University  <br>
-Focusing on Signal Processing, audio processing and deepfakes  <br>
-## Education
 Toronto Metropolitan University, Toronto, Canada <br>
-Ph.D. Candidate in Electrical and Computer Engineering <br>
+Ph.D. Candidate in Electrical and Computer Engineering, Signal Processing and Communications <br>
 **2021-2025** <br>
 
 University of Tabriz, Iran <br>
