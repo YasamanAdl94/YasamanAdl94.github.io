@@ -1,5 +1,6 @@
 # About Me
 As a highly motivated Ph.D. candidate dedicated to career  growth, I seek to apply my unique perspective, strong work ethic, and commitment to advancing in the signal processing field. I bring problem-solving abilities, analytical thinking, and effective communication skills pivotal for contributing to projects in both work and academic environments.
+
 [Email](mailto:yahmadiadli@torontomu.ca/) / [Researchgate](https://www.researchgate.net/profile/Yasaman-Ahmadiadli) / [LinkedIn](https://www.linkedin.com/in/yasamanahmadiadli/) / [GitHub](https://github.com/YasamanAdl94/) 
 
 ## Education
