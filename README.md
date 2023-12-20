@@ -58,4 +58,4 @@ Operating Systems: Windows, Linux <br>
 Database Systems: SQL Server <br>
 Version Control: Git <br>
 IDEs: Pycharm, Jupyter Notebook, Google Colab, Eclipse, Dr.Java, Processing <br>
-### Soft Skills: Communication, Analytical thinking, Problem-solving, Teamwork
+**Soft Skills:** Communication, Analytical thinking, Problem-solving, Teamwork
