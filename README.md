@@ -104,7 +104,7 @@ Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
 ## Experience
 
 ### WellWave - AI/ML Intern
-*2024 - present*
+*2025 - present*
 
 Applied ML work on stress detection using physiological signals.
 
