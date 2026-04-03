@@ -18,19 +18,18 @@ A newer thread in my dissertation explores the role of affective and emotional s
 
 **Audio deepfake detection and adversarial robustness**
 Developing deep learning systems for synthetic speech detection, with emphasis on cross-dataset generalization and robustness to unseen audio conditions. Combines bi-level optimization, contrastive representation learning, and acoustic feature engineering. Evaluated on ASVspoof2019, ADD2022, FoR, and In-the-Wild benchmarks.
-`artifact-centric learning` `bi-level optimization` `distribution shift` `Wav2Vec2`
+
 
 **Affective signal analysis for synthetic speech**
 Exploring the role of affective and emotional signals in audio as a complementary modality for deepfake detection. Ongoing dissertation work.
-`affective computing` `multimodal AI` `audio signals`
+
 
 **Physiological signal analysis and stress detection**
 Applied research on stress detection using physiological signals. Industry collaboration (WellWave).
-`physiological signals` `stress detection` `applied ML`
 
 **Survey and taxonomy of speech deepfake detection**
 Co-authored a comprehensive survey synthesizing over 100 detection methods from IEEE and ACM venues into a unified taxonomy covering acoustic features, neural architectures, training paradigms, and evaluation protocols. Published in ACM Computing Surveys (2025).
-`ACM Computing Surveys` `survey` `taxonomy`
+
 
 ### Research interests
 
