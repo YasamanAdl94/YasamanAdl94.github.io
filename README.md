@@ -1,5 +1,3 @@
-# Yasaman Ahmadiadli
-
 **Ph.D. Candidate · Electrical & Computer Engineering · Toronto Metropolitan University**
 
 Researcher in audio deepfake detection, adversarial robustness, and multimodal AI systems. My work combines signal processing, deep learning, and affective computing to build detection systems that generalize reliably across real-world conditions. Four years of hands-on teaching experience at the undergraduate and graduate level.
