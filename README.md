@@ -1,3 +1,5 @@
+# Yasaman Ahmadiadli
+
 **Ph.D. Candidate · Electrical & Computer Engineering · Toronto Metropolitan University**
 
 Researcher in audio deepfake detection, adversarial robustness, and multimodal AI systems. My work combines signal processing, deep learning, and affective computing to build detection systems that generalize reliably across real-world conditions. Four years of hands-on teaching experience at the undergraduate and graduate level.
@@ -24,6 +26,7 @@ Exploring the role of affective and emotional signals in audio as a complementar
 
 **Physiological signal analysis and stress detection**
 Applied research on stress detection using physiological signals. Industry collaboration (WellWave).
+
 
 **Survey and taxonomy of speech deepfake detection**
 Co-authored a comprehensive survey synthesizing over 100 detection methods from IEEE and ACM venues into a unified taxonomy covering acoustic features, neural architectures, training paradigms, and evaluation protocols. Published in ACM Computing Surveys (2025).
@@ -102,7 +105,7 @@ Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
 ## Experience
 
 ### WellWave - AI/ML Intern
-*2025 - present*
+*2024 - present*
 
 Applied ML work on stress detection using physiological signals.
 
