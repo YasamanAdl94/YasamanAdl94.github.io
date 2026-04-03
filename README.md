@@ -12,7 +12,7 @@ Researcher in audio deepfake detection, adversarial robustness, and multimodal A
 
 My research is in audio deepfake detection and multimodal AI, with a focus on building systems that remain robust when deployed on audio signals outside the training distribution. I work at the intersection of deep learning, signal processing, and representation learning, developing frameworks that draw on acoustic, linguistic, and affective features to detect synthetic speech reliably across diverse conditions.
 
-A newer thread in my dissertation explores whether emotional and affective signals in audio can serve as a complementary detection modality, motivated by the observation that current speech synthesis systems struggle to faithfully reproduce the affective cues present in genuine human speech. This is developed as part of the SAM (Speech Artifact and Affect Modeling) system, the central contribution of my thesis.
+A newer thread in my dissertation explores the role of affective and emotional signals in audio as a complementary detection modality, alongside ongoing work on stress detection using physiological signals.
 
 ### Research threads
 
@@ -21,12 +21,12 @@ Developing deep learning systems for synthetic speech detection, with emphasis o
 `artifact-centric learning` `bi-level optimization` `distribution shift` `Wav2Vec2`
 
 **Affective signal analysis for synthetic speech**
-Developing detection frameworks that incorporate emotional embeddings (Emotion2Vec) alongside acoustic features, using affective inconsistency as a complementary signal to artifact-based approaches across cross-dataset conditions. Core component of the SAM system.
-`Emotion2Vec` `contrastive learning` `multimodal fusion` `SAM system`
+Exploring the role of affective and emotional signals in audio as a complementary modality for deepfake detection. Ongoing dissertation work.
+`affective computing` `multimodal AI` `audio signals`
 
-**Physiological signal analysis and stress monitoring**
-Applied work on multimodal biometric stress inference using HRV, ECG, gaze, and EEG signals in VR-based training environments. Built the full data ingestion and processing pipeline across five sensor modalities for an adaptive intervention system for JTAC military trainees (WellWave / NSERC IRAP project).
-`HRV / ECG` `gaze tracking` `VR environments` `Movesense`
+**Physiological signal analysis and stress detection**
+Applied research on stress detection using physiological signals. Industry collaboration (WellWave).
+`physiological signals` `stress detection` `applied ML`
 
 **Survey and taxonomy of speech deepfake detection**
 Co-authored a comprehensive survey synthesizing over 100 detection methods from IEEE and ACM venues into a unified taxonomy covering acoustic features, neural architectures, training paradigms, and evaluation protocols. Published in ACM Computing Surveys (2025).
@@ -114,14 +114,14 @@ Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
 ### WellWave - AI/ML Intern
 *2024 - present*
 
-Building ML pipelines for scam call detection. Parallel work on multimodal biometric stress monitoring using HRV, ECG, gaze, and EEG signals as part of an NSERC IRAP-funded project targeting adaptive intervention for military (JTAC) trainees in VR environments. Sole engineer responsible for the full data ingestion and processing pipeline across five sensor modalities (Movesense, Meta Quest).
+Applied ML work on stress detection using physiological signals.
 
 ### Ph.D. Researcher - Toronto Metropolitan University
 *2021 - present*
 
 Signal Processing and Communications Lab. Supervisors: Dr. Naimul Khan & Dr. Xiao-Ping Zhang.
 
-Designing and evaluating deep learning systems for audio deepfake detection, with a focus on adversarial robustness and cross-dataset generalization. Key contributions include the artifact-centric learning framework, the SAM multimodal detection system integrating linguistic and affective encoders, and a comprehensive survey of the deepfake detection landscape published in ACM Computing Surveys.
+Designing and evaluating deep learning systems for audio deepfake detection, with a focus on adversarial robustness and cross-dataset generalization. Published in ACM Computing Surveys and IEEE venues.
 
 ### Awards & scholarships
 
