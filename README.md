@@ -1,59 +1,186 @@
-# About Me
-As a highly motivated Ph.D. candidate dedicated to career  growth, I seek to apply my unique perspective, strong work ethic, and commitment to advancing in the signal processing field. I bring problem-solving abilities, analytical thinking, and effective communication skills pivotal for contributing to projects in both work and academic environments.
+# Yasaman Ahmadiadli
 
-[Email](mailto:yahmadiadli@torontomu.ca/) / [Researchgate](https://www.researchgate.net/profile/Yasaman-Ahmadiadli) / [LinkedIn](https://www.linkedin.com/in/yasamanahmadiadli/) / [GitHub](https://github.com/YasamanAdl94/) 
+**Ph.D. Candidate · Electrical & Computer Engineering · Toronto Metropolitan University**
 
-## Education
-Toronto Metropolitan University, Toronto, Canada <br>
-Ph.D. Candidate in Electrical and Computer Engineering, Signal Processing and Communications <br>
-**2021-2025** <br>
+Researcher in audio deepfake detection, adversarial robustness, and multimodal AI systems. My work combines signal processing, deep learning, and affective computing to build detection systems that generalize reliably across real-world conditions. Four years of hands-on teaching experience at the undergraduate and graduate level.
 
-University of Tabriz, Iran <br>
-M.Sc. in Computer Engineering – Artificial Intelligence and Robotics <br>
-Thesis: <br>
-Intelligent Target Hitting in Path with Obstacles under Real Environment Circumstances using Physical Animation and Evolutionary Algorithms <br>
-**2017-2020** <br>
-	
-University of Tabriz, Iran <br>
-B.Sc. in Information Technology Engineering <br>
-Final Project: <br>
-Pedestrian Detection using Thermal Cameras for Driving in Dangerous Roads <br>
-**2012-2017** <br>
+[Email](mailto:yahmadiadli@torontomu.ca) · [LinkedIn](https://www.linkedin.com/in/yahmadiadli/) · [Google Scholar](https://scholar.google.com/citations?user=V6eIVVYAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Yasaman-Ahmadiadli?ev=hdr_xprf) · [GitHub](https://github.com/YasamanAdl94) · [ORCID](https://orcid.org/0000-0003-0740-9557)
 
-## Research Interests
-Deep Learning  <br>
-Evolutionary Computing  <br>
-Multimedia Processing  <br>
-Digital Signal Processing  <br>
-Audio Processing <br>
-Multimodal Systems <br>
+---
 
-## Teaching Experience
-Toronto Metropolitan University <br>
-Lead Graduate Assistant - Digital Systems(COE328/EES508) <br>
-Graduate Assistant – Computer Organization II (CPS310) <br>
-Graduate Assistant – Computer Design and Architecture (COE608) <br>
-Graduate Assistant - Signals and Systems II (ELE632) <br>
-Graduate Assistant - Software Design (COE692) <br>
-Graduate Assistant - Operating Systems (COE628) <br>
+## Research
 
+My research is in audio deepfake detection and multimodal AI, with a focus on building systems that remain robust when deployed on audio signals outside the training distribution. I work at the intersection of deep learning, signal processing, and representation learning, developing frameworks that draw on acoustic, linguistic, and affective features to detect synthetic speech reliably across diverse conditions.
 
-University of Tabriz <br>
-Teaching Assistant – Fundamentals of Computational Intelligence	<br>
-Teaching Assistant - Computer Networks <br>
+A newer thread in my dissertation explores whether emotional and affective signals in audio can serve as a complementary detection modality, motivated by the observation that current speech synthesis systems struggle to faithfully reproduce the affective cues present in genuine human speech. This is developed as part of the SAM (Speech Artifact and Affect Modeling) system, the central contribution of my thesis.
+
+### Research threads
+
+**Audio deepfake detection and adversarial robustness**
+Developing deep learning systems for synthetic speech detection, with emphasis on cross-dataset generalization and robustness to unseen audio conditions. Combines bi-level optimization, contrastive representation learning, and acoustic feature engineering. Evaluated on ASVspoof2019, ADD2022, FoR, and In-the-Wild benchmarks.
+`artifact-centric learning` `bi-level optimization` `distribution shift` `Wav2Vec2`
+
+**Affective signal analysis for synthetic speech**
+Developing detection frameworks that incorporate emotional embeddings (Emotion2Vec) alongside acoustic features, using affective inconsistency as a complementary signal to artifact-based approaches across cross-dataset conditions. Core component of the SAM system.
+`Emotion2Vec` `contrastive learning` `multimodal fusion` `SAM system`
+
+**Physiological signal analysis and stress monitoring**
+Applied work on multimodal biometric stress inference using HRV, ECG, gaze, and EEG signals in VR-based training environments. Built the full data ingestion and processing pipeline across five sensor modalities for an adaptive intervention system for JTAC military trainees (WellWave / NSERC IRAP project).
+`HRV / ECG` `gaze tracking` `VR environments` `Movesense`
+
+**Survey and taxonomy of speech deepfake detection**
+Co-authored a comprehensive survey synthesizing over 100 detection methods from IEEE and ACM venues into a unified taxonomy covering acoustic features, neural architectures, training paradigms, and evaluation protocols. Published in ACM Computing Surveys (2025).
+`ACM Computing Surveys` `survey` `taxonomy`
+
+### Research interests
+
+`Audio deepfake detection` `Adversarial robustness` `Artifact-centric learning` `Multimodal AI` `Affective computing` `Representation learning` `Signal processing` `Media forensics` `Physiological computing`
+
+---
 
 ## Publications
-* Li, M., Ahmadiadli, Y.,  Zhang, X. P. (2022, October). A Comparative Study on Physical and Perceptual Features for Deepfake Audio Detection. In Proceedings of the 1st International Workshop on Deepfake Detection for Audio Multimedia (pp. 35-41).
-* Rezaei, A., Ahmadiadli, Y., Farzinvash, L.,  Asadpour, M. (2022). Low distortion and adaptive image steganography by enhancing DBSCAN, Sobel operator, and XOR coding. Journal of Information Security and Applications, 70, 103343.
-* Menglu Li, Yasaman Ahmadiadli,  Xiao-Ping Zhang. “Robust Deepfake Audio Detection Via Bi-Level Optimization” submitted to Signal Processing Letters
-* Menglu Li, Yasaman Ahmadiadli,  Xiao-Ping Zhang. “Deepfake Audio Generation and Detection: A Survey” (2023) To be submitted
-  
-## Technical Skills
-Programming Languages: C, Java, Matlab, Python <br>
-•	 Python Libraries and Frameworks: Tensorflow, PyTorch, OpenCV, Numpy, Keras, Pandas, Scikit-learn, Matplotlib <br>
-Robotics: Robotics Operating System (ROS) <br>
-Operating Systems: Windows, Linux <br>
-Database Systems: SQL Server <br>
-Version Control: Git <br>
-IDEs: Pycharm, Jupyter Notebook, Google Colab, Eclipse, Dr.Java, Processing <br>
-**Soft Skills:** Communication, Analytical thinking, Problem-solving, Teamwork
+
+### Journal articles
+
+**A survey on speech deepfake detection**
+Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
+*ACM Computing Surveys*, 2025
+
+**Low-distortion and adaptive image steganography by enhancing DBSCAN, Sobel operator, and XOR coding**
+A. Rezaei, Yasaman Ahmadiadli, L. Farzinvash, M. Asadpour
+*Journal of Information Security and Applications*, vol. 70, 2022
+
+### Conference papers
+
+**Probing and mitigating identity leakage in audio deepfake detection using artifact-centric learning** *(under review)*
+Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
+*CCECE 2026*
+
+**Robust deepfake audio detection via bi-level optimization**
+Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
+*IEEE International Workshop on Multimedia Signal Processing (MMSP)*, 2023
+
+**A comparative study on physical and perceptual features for deepfake audio detection**
+Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
+*1st International Workshop on Deepfake Detection for Audio Multimedia, ACM MM*, 2022
+
+### Preprints
+
+**Identity independent audio deepfake detection**
+Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
+*arXiv:2505.06766*, 2025
+
+---
+
+## Teaching
+
+### Instructor of record - Toronto Metropolitan University
+
+| Course | Title |
+|--------|-------|
+| COE848 | **Fundamentals of Data Engineering** - Designed and delivered all lectures, labs, and assessments. Topics: relational databases, SQL, NoSQL, distributed systems, Big Data architectures. 100+ students per semester. |
+| COE428 | **Engineering Algorithms and Data Structures** - Sole instructor for 40+ students. Algorithm design, complexity analysis, dynamic programming, graph algorithms. |
+| COE691 | **Software Requirements and Specifications** - Requirements elicitation, UML modelling, microservices architecture. 20+ students. |
+| COE70A/B | **Capstone Design Project** - Faculty supervisor for undergraduate engineering design teams through full project lifecycle: scoping, system design, implementation, and final presentation. |
+
+### Graduate teaching assistant - ECE/CS courses
+
+| Course | Title |
+|--------|-------|
+| ELE632 | **Signals and Systems II** - DTFS, DTFT, DFT/FFT, Z-transform, LTI systems. 60+ students. Supervisor: Dr. Dimitri Androutsos. |
+| COE328 | **Digital Systems** - Digital logic, sequential circuits, hardware design. 100+ students. Supervisor: Dr. Nagi Mekhiel. |
+| COE608 | **Computer Design and Architecture** - Pipelining, parallelism, processor architecture. |
+| COE628 | **Operating Systems** - OS principles, scheduling, memory management. |
+| COE818 | **Advanced Computer Architecture** - Advanced processor design and parallelism. |
+| COE692 | **Software Design** - UML, microservices. Supervisor: Dr. Faezeh Ensan. |
+| CPS310 | **Computer Organization II** - Computer organization and architecture. Supervisor: Dr. Alireza Sadeghian. |
+
+### Additional roles
+
+| | |
+|--|--|
+| AI4Good | **AI4Good Lab Teaching Assistant** - Mentored student teams on ML applications including multimodal AI and LLM-powered project development. |
+| CEN100 | **First-Year Engineering Advisor** - Academic advising and technical guidance for 500+ first-year engineering students. Supervisor: Dr. Lamya Amleh. |
+
+### Teaching assistant - University of Tabriz
+
+- Fundamentals of Computational Intelligence
+- Computer Networks
+
+---
+
+## Experience
+
+### WellWave - AI/ML Intern
+*2024 - present*
+
+Building ML pipelines for scam call detection. Parallel work on multimodal biometric stress monitoring using HRV, ECG, gaze, and EEG signals as part of an NSERC IRAP-funded project targeting adaptive intervention for military (JTAC) trainees in VR environments. Sole engineer responsible for the full data ingestion and processing pipeline across five sensor modalities (Movesense, Meta Quest).
+
+### Ph.D. Researcher - Toronto Metropolitan University
+*2021 - present*
+
+Signal Processing and Communications Lab. Supervisors: Dr. Naimul Khan & Dr. Xiao-Ping Zhang.
+
+Designing and evaluating deep learning systems for audio deepfake detection, with a focus on adversarial robustness and cross-dataset generalization. Key contributions include the artifact-centric learning framework, the SAM multimodal detection system integrating linguistic and affective encoders, and a comprehensive survey of the deepfake detection landscape published in ACM Computing Surveys.
+
+### Awards & scholarships
+
+**Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST)**
+2025-2026. Competitive provincial award from the Ontario government recognizing excellence in graduate research in science and technology, administered through Toronto Metropolitan University.
+
+**Student Access Guarantee (SAG) Bursary**
+Winter 2026. Awarded by Toronto Metropolitan University in recognition of continued academic commitment and enrolment.
+
+---
+
+## Education
+
+**Toronto Metropolitan University**, Canada · 2021 - present
+*Ph.D., Electrical and Computer Engineering*
+Dissertation: Robust Audio Deepfake Detection via Artifact-Centric Learning and Emotional Signal Analysis
+Supervisors: Dr. Naimul Khan & Dr. Xiao-Ping (Steven) Zhang
+Award: Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST), 2025-2026
+
+**University of Tabriz**, Iran · 2017 - 2020
+*M.Sc., Computer Engineering - Artificial Intelligence and Robotics*
+Thesis: Intelligent target hitting in path with obstacles under real environment circumstances using physical animation and evolutionary algorithms.
+
+**University of Tabriz**, Iran · 2012 - 2017
+*B.Sc., Information Technology Engineering*
+Final project: Pedestrian detection using thermal cameras for driving in dangerous road conditions.
+
+---
+
+## Skills
+
+**ML / Deep learning** - PyTorch, TensorFlow, Keras, Scikit-learn, CNNs, RNNs, Transformers, GANs, GNNs, Foundation models
+
+**Optimization & training** - Bi-level optimization, adversarial training, contrastive learning, domain adaptation, transfer learning, hyperparameter tuning
+
+**Signal & audio processing** - Librosa, SoundFile, DSP, Mel-spectrograms, CQCCs, FFT, Z-transform, time-frequency analysis, Wav2Vec2, Emotion2Vec
+
+**Physiological signals** - HRV, ECG, gaze tracking, EEG, Movesense sensor integration, biometric pipeline engineering
+
+**Languages & tools** - Python, Java, C, MATLAB, SQL, Git, CUDA, Jupyter, Weights & Biases, TensorBoard, Google Colab
+
+**Data engineering** - Relational databases, NoSQL, distributed systems, Big Data pipelines, Streamlit
+
+**Software engineering** - OOP, UML, requirements analysis, system design, microservices, testing
+
+**Hardware** - VHDL, FPGA (Quartus, Logisim), digital logic design, ROS
+
+---
+
+## Service
+
+### Peer review
+
+Invited reviewer for journals across IEEE, Elsevier, and Springer, covering machine learning, cybersecurity, and signal processing.
+
+- Neural Networks (Elsevier)
+- Computers & Security (Elsevier)
+- Computer Communications (Elsevier)
+- ICT Express (Elsevier)
+- EURASIP Journal on Audio, Speech, and Music Processing (Springer)
+- IEEE Canadian Journal of Electrical and Computer Engineering
+- Canadian Journal of Undergraduate Research
