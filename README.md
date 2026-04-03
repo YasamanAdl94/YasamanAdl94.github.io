@@ -30,13 +30,6 @@ Applied research on stress detection using physiological signals. Industry colla
 **Survey and taxonomy of speech deepfake detection**
 Co-authored a comprehensive survey synthesizing over 100 detection methods from IEEE and ACM venues into a unified taxonomy covering acoustic features, neural architectures, training paradigms, and evaluation protocols. Published in ACM Computing Surveys (2025).
 
-
-### Research interests
-
-`Audio deepfake detection` `Adversarial robustness` `Artifact-centric learning` `Multimodal AI` `Affective computing` `Representation learning` `Signal processing` `Media forensics` `Physiological computing`
-
----
-
 ## Publications
 
 ### Journal articles
