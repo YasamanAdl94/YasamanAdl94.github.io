@@ -1,6 +1,6 @@
 **Ph.D. Candidate · Electrical & Computer Engineering · Toronto Metropolitan University**
 
-Researcher in audio deepfake detection, adversarial robustness, and multimodal AI systems. My work combines signal processing, deep learning, and affective computing to build detection systems that generalize reliably across real-world conditions. Four years of hands-on teaching experience at the undergraduate and graduate level.
+Researcher in audio deepfake detection, adversarial robustness, and multimodal AI systems. My work combines signal processing, deep learning, and affective computing to build detection systems that generalize reliably across real-world conditions. Extensive hands-on teaching experience at the undergraduate and graduate level.
 
 [Email](mailto:yahmadiadli@torontomu.ca) · [LinkedIn](https://www.linkedin.com/in/yahmadiadli/) · [Google Scholar](https://scholar.google.com/citations?user=V6eIVVYAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Yasaman-Ahmadiadli?ev=hdr_xprf) · [GitHub](https://github.com/YasamanAdl94) · [ORCID](https://orcid.org/0000-0003-0740-9557)
 
@@ -35,7 +35,7 @@ Co-authored a comprehensive survey synthesizing over 100 detection methods from 
 
 **A survey on speech deepfake detection**
 Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
-*ACM Computing Surveys*, 2025
+*ACM Computing Surveys*, 2025 · [DOI](https://doi.org/10.1145/3714458)
 
 **Low-distortion and adaptive image steganography by enhancing DBSCAN, Sobel operator, and XOR coding**
 A. Rezaei, Yasaman Ahmadiadli, L. Farzinvash, M. Asadpour
@@ -43,9 +43,9 @@ A. Rezaei, Yasaman Ahmadiadli, L. Farzinvash, M. Asadpour
 
 ### Conference papers
 
-**Probing and mitigating identity leakage in audio deepfake detection using artifact-centric learning** *(under review)*
-Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
-*CCECE 2026*
+**Probing and mitigating identity leakage in audio deepfake detection using artifact-centric learning** *(accepted and published)*
+Yasaman Ahmadiadli, Xiao-Ping Zhang, Naimul Khan
+*2026 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)* · [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11610268)
 
 **Robust deepfake audio detection via bi-level optimization**
 Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
@@ -57,9 +57,9 @@ Menglu Li, Yasaman Ahmadiadli, Xiao-Ping Zhang
 
 ### Preprints
 
-**Identity independent audio deepfake detection**
-Yasaman Ahmadiadli, Naimul Khan, Xiao-Ping Zhang
-*arXiv:2505.06766*, 2025
+**Beyond Identity: A Generalizable Approach for Deepfake Audio Detection**
+Yasaman Ahmadiadli, Xiao-Ping Zhang, Naimul Khan
+[arXiv:2505.06766](https://arxiv.org/abs/2505.06766), 2025
 
 ---
 
@@ -115,6 +115,9 @@ Signal Processing and Communications Lab. Supervisors: Dr. Naimul Khan & Dr. Xia
 Designing and evaluating deep learning systems for audio deepfake detection, with a focus on adversarial robustness and cross-dataset generalization. Published in ACM Computing Surveys and IEEE venues.
 
 ### Awards & scholarships
+
+**Ontario Graduate Scholarship (OGS)**
+2026. Competitive provincial graduate research award.
 
 **Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST)**
 2025-2026. Competitive provincial award from the Ontario government recognizing excellence in graduate research in science and technology, administered through Toronto Metropolitan University.
